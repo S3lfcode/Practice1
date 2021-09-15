@@ -9,5 +9,6 @@ class HelloWorld {
 	}
 	public static void other(String[] args) {
 	System.out.println("New(NEEEEW!!!) changes on new branch");
+	System.out.println("New changes on new branch");
 	}
 }

@@ -8,6 +8,6 @@ class HelloWorld {
 		System.out.println("For develop commit 5.1");
 	}
 	public static void other(String[] args) {
-	System.out.println("New changes on new branch");
+	System.out.println("New(NEEEEW!!!) changes on new branch");
 	}
 }
